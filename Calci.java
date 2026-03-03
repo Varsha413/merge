@@ -8,5 +8,7 @@ public class Calci {
 
         System.out.println("Sum  = " + sum);
         System.out.println("Success");
+        System.out.println("Sum = " + sum);
+        System.out.println("done");
     }
 }
